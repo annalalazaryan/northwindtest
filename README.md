@@ -34,7 +34,8 @@ npm install
 npm start
 ```
 
-## Type in your browser following link And check orders.csv file in your downloads folder. It's contains total number of orders made each territory (based on the employee that made that order). 
+## Test Endpoint
+Type in your browser following link And check orders.csv file in your downloads folder. It's contains total number of orders made each territory (based on the employee that made that order). 
 ```bash
 http://localhost:3000/orders/count
 ```
