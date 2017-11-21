@@ -5,7 +5,6 @@ Test using northwind oData
 
 
 
-* Database (mongoose) (http://mongoosejs.com/)
 * Testing (mocha, chai) (https://mochajs.org/, http://chaijs.com/)
 * Doc generation with jsdoc (http://usejsdoc.org/)
 * Linting using standard eslint (https://eslint.org/)
